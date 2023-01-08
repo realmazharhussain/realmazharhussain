@@ -11,7 +11,7 @@
 
 <details><summary><b>JazzCash</b></summary>
 
-*Account*: 03041537702  
+*Account Number*: 03041537702  
 *IBAN*: PK90JCMA1509923041537702  
 _Beneficiary name_: Mazhar Hussain
 </details>
