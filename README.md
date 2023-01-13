@@ -8,6 +8,7 @@
 # Donate
 
 **Patreon**: [mazharhussain](https://patreon.com/mazharhussain)  
+**Buy Me a Coffee**: [mazharhussain](https://www.buymeacoffee.com/mazharhussain)  
 
 <details><summary><b>JazzCash</b></summary>
 
