@@ -10,10 +10,10 @@
 - [immersive-dark-mode](https://github.com/realmazharhussain/immersive-dark-mode): Make GNOME's dark mode toggle work in all kinds of different scenarios
 - [nautilus-code](https://github.com/realmazharhussain/nautilus-code): Add right-click context menu to GNOME Files, to open current file/folder in code editor/IDE of your choice
 - [clipboard-send](https://github.com/realmazharhussain/clipboard-send): Android app to share current contents of your clipboard
-- [gdm-tools](https://github.com/realmazharhussain/gdm-tools): (Deprecated) Commandline tools to configure GDM (GNOME's Login Manager)
+- [gdm-tools](https://github.com/realmazharhussain/gdm-tools): *(Deprecated)* Commandline tools to configure GDM (GNOME's Login Manager)
 - [scripts](https://github.com/realmazharhussain/scripts): Various scripts that I created for personal use (might be useful for you too) 
 - [config-files](https://github.com/realmazharhussain/config-files): My config files (dotfiles as others call it)
-- [AppImage-thumbnailer](https://github.com/realmazharhussain/AppImage-thumbnailer): (Deprecated) Thumbnailer for AppImages
+- [AppImage-thumbnailer](https://github.com/realmazharhussain/AppImage-thumbnailer): *(Deprecated)* Thumbnailer for AppImages
 - [meta-pkgs](https://github.com/realmazharhussain/meta-pkgs): Arch Linux package repo for meta packages with automated scripts for packages that require manual setup
 - [Templates](https://github.com/realmazharhussain/Templates): A bunch of file templates
 - [jar-thumbnailer](https://github.com/realmazharhussain/jar-thumbnailer): Thumbnailer for Java (J2ME) apps/games
